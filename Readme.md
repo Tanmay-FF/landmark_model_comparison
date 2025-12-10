@@ -14,14 +14,19 @@ It allows developers to validate the accuracy of model conversions (e.g., TF to 
   * **Template Overlay:** Overlays a reference landmark template (lime green dots) to help assess the alignment accuracy of the predictions.
   * **Batch Processing:** Processes all images within a selected directory.
 
+
 ## Directory Structure
 
+```text
 .
 ├── models/               # Place your .pb and .onnx models here
 ├── sample_input/         # Directory containing test images (.jpg, .png)
 ├── sample_output/        # Directory for saving results (if configured)
 ├── landmarks_demo.py     # Main application script
 ├── requirements.txt      # Python dependencies
+└── image_17_landamrks.png # Sample reference image
+```
+
 
 ## Prerequisites
 
