@@ -1,5 +1,3 @@
-
-
 # Face Landmark Model Comparison Tool
 
 This project is a GUI-based utility designed to visually compare the inference results of **TensorFlow** (`.pb`) and **ONNX** face landmark detection models side-by-side.
