@@ -24,7 +24,6 @@ It allows developers to validate the accuracy of model conversions (e.g., TF to 
 ├── sample_output/        # Directory for saving results (if configured)
 ├── landmarks_demo.py     # Main application script
 ├── requirements.txt      # Python dependencies
-└── image_17_landamrks.png # Sample reference image
 ```
 
 
